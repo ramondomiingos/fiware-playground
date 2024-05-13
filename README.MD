@@ -7,6 +7,8 @@ git checkout NGSI-v2
 
 docker-compose -p fiware up -d
 ```
+para mais detalhes da instalaçao, pode consultar o tutoral  que pegamos o docker file ou visitar o site FIWARE para consultar a documentação.
+
 ## Entidades
 Nossas entidades serão SERVIÇOS ou API ou Microserviços `( ex.: payments, accounts, shopping...)`
 Para listas as entidades que existem, podemos usar:
